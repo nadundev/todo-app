@@ -1,7 +1,7 @@
 {
   "todos": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Learn React",
       "completed": false,
       "description": "Learn React and build a todo app",
@@ -10,7 +10,7 @@
       "category": "learning"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Build Todo App",
       "description": "Build a todo app using React and Tailwind CSS",
       "completed": false,
